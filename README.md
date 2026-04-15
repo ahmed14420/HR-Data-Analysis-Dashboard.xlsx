@@ -61,8 +61,8 @@ Built an interactive dashboard to visualize insights.
 
 
 ## 📂 Files Included
--<a href="[https://github.com/ahmed14420/Vrinda-Store-Sales-Analysis-Dashboard.xlsx](https://github.com/ahmed14420/Vrinda-Store-Sales-Analysis-Dashboard.xlsx/blob/main/Vrinda%20Store%20Sales%20Analysis%20Dashboard.xlsx)">Excel Analysis File</a>  
--<a href="[[https://github.com/ahmed14420/Vrinda-Store-Sales-Analysis-Dashboard.xlsx](https://github.com/ahmed14420/Vrinda-Store-Sales-Analysis-Dashboard.xlsx/blob/main/Vrinda%20Store%20Sales%20Analysis%20Dashboard.xlsx)](https://github.com/ahmed14420/Vrinda-Store-Sales-Analysis-Dashboard.xlsx/blob/main/dashboard.PNG)"> Dashboard Image</a>
+-<a href="https://github.com/ahmed14420/Vrinda-Store-Sales-Analysis-Dashboard.xlsx/blob/main/Vrinda%20Store%20Sales%20Analysis%20Dashboard.xlsx">Excel Analysis File</a>  
+-<a href="https://github.com/ahmed14420/Vrinda-Store-Sales-Analysis-Dashboard.xlsx/blob/main/dashboard.PNG"> Dashboard Image</a>
  
 
 ## 🚀 Conclusion
